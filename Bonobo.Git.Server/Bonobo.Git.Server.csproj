@@ -612,6 +612,10 @@
     <Content Include="Content\fonts\opensans-regular.ttf" />
     <Content Include="Content\fonts\opensans-regular.woff" />
     <Content Include="App_Data\.gitconfig" />
+    <Content Include="Content\components\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <None Include="Properties\PublishProfiles\bonobo.pubxml" />
+    <None Include="Properties\PublishProfiles\Release-Api.pubxml" />
+    <None Include="Properties\PublishProfiles\Release-UI.pubxml" />
     <None Include="Properties\PublishProfiles\Release.pubxml" />
     <Content Include="Views\Repository\Blob.cshtml" />
     <Content Include="Views\Repository\Clone.cshtml" />
